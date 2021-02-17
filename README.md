@@ -1,5 +1,6 @@
 # Resources to start your career 
- A list of great links to get your career off to a good start.
+ A list of great links to get your career off to a good start. 
+ cloned from:https://github.com/ryanburgess/engineer-manager - thank you for orginally creating this tool
 
 ## Repositories
  * [How they SRE](https://github.com/upgundecha/howtheysre) - How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
