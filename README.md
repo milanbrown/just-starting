@@ -7,15 +7,15 @@
  * [Awesome List ](https://github.com/sindresorhus/awesome) - An awesome list is a list of awesome things curated by the community.
 
 ## Books
+ * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
+ * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/) - one of the best books to understand motivation
+ * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664) - A great book for understanding how to best provide and receive feedback.
  * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl)
  * [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/dp/0884271951/ref=wl_it_dp_v_nS_ttl)
- * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/) - one of the best books to understand motivation
- * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [HBR's 10 Must Reads on Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997) - A book with HBR's 10 must read articles on managing yourself.
  * [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568)
  * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
- * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
  * [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Updated-Saying/dp/1529038340/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - How to Get What You Want by Saying What You Mean
  * [Bank 4.0: Banking Everywhere, Never at a Bank](https://www.amazon.com/Bank-4-0-Banking-Everywhere-Never/dp/1119506506) - The future of banking is already here ― are you ready?

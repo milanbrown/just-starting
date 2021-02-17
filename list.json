@@ -1,5 +1,23 @@
 [
     {
+        "title": "Turn the Ship Around!",
+        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y",
+        "reason": "A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.",
+        "cat": "book"
+    },
+    {
+        "title": "Drive: The Surprising Truth About What Motivates Us",
+        "url": "http://www.danpink.com/books/drive/",
+        "reason": "one of the best books to understand motivation",
+        "cat": "book"
+    },
+    {
+        "title": "The Phoenix Project",
+        "url": "https://www.bookdepository.com/The-Phoenix-Project/9780988262508",
+        "reason": "",
+        "cat": "book"
+    },
+    {
         "title": "Human centred leadership: Navigating uncertainty as a first time leader",
         "url": "https://rush.co.nz/ideas/human-centred-leadership",
         "reason": "",
@@ -168,18 +186,6 @@
         "cat": "article"
     },
     {
-        "title": "Drive: The Surprising Truth About What Motivates Us",
-        "url": "http://www.danpink.com/books/drive/",
-        "reason": "one of the best books to understand motivation",
-        "cat": "book"
-    },
-    {
-        "title": "The Phoenix Project",
-        "url": "https://www.bookdepository.com/The-Phoenix-Project/9780988262508",
-        "reason": "",
-        "cat": "book"
-    },
-    {
         "title": "Camille Fournier - Building a High-Performance Team is Everyone's Job",
         "url": "https://www.youtube.com/watch?v=pTf5mqOrwvY",
         "reason": "",
@@ -250,12 +256,6 @@
         "url": "https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2",
         "reason": "A great podcast episode around how important it is to give critical feedback",
         "cat": "podcast"
-    },
-    {
-        "title": "Turn the Ship Around!",
-        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y",
-        "reason": "A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.",
-        "cat": "book"
     },
     {
         "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
