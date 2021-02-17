@@ -330,10 +330,28 @@
         "cat": "repository"
     },
     {
-        "title": "Awesome List ",
+        "title": "Awesome List",
         "url": "https://github.com/sindresorhus/awesome",
         "reason": "An awesome list is a list of awesome things curated by the community.",
         "cat": "repository"
+    },
+    {
+        "title": "Maslow’s Hierarchy of Needs",
+        "url": "https://medium.com/thrive-global/maslows-hierarchy-of-needs-5b021e203e34",
+        "reason": "A brief intro to maslows hierarchy of needs",
+        "cat": "article"
+    },
+    {
+        "title": "USERPALOOZA by Nick Bowmast",
+        "url": "https://userpalooza.co.nz/",
+        "reason": "…Because it's easier to design for a customer you understand",
+        "cat": "book"
+    },
+    {
+        "title": "Finding Happiness in a Busy Life — Make your bed every day",
+        "url": "https://mbuswell.medium.com/finding-happiness-in-a-busy-life-make-your-bed-every-day-2c18e7daff3c",
+        "reason": "A great article about one of the best speeches and books",
+        "cat": "article"
     }
 ]
 

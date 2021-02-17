@@ -1,11 +1,11 @@
 # Resources to start your career 
  A list of great links to get your career off to a good start. 
- cloned from:https://github.com/ryanburgess/engineer-manager - thank you for orginally creating this tool
+ Cloned from https://github.com/ryanburgess/engineer-manager - thank you for orginally creating this tool
 
 ## Repositories
  * [How they SRE](https://github.com/upgundecha/howtheysre) - How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
  * [Awesome List of resources on Agile Software Development.](https://github.com/lorabv/awesome-agile)
- * [Awesome List ](https://github.com/sindresorhus/awesome) - An awesome list is a list of awesome things curated by the community.
+ * [Awesome List](https://github.com/sindresorhus/awesome) - An awesome list is a list of awesome things curated by the community.
 
 ## Books
  * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
@@ -26,6 +26,7 @@
  * [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
  * [Winning by Jack Welch](https://www.amazon.com/Winning-Jack-Welch/dp/0060759380)
  * [Monkey Business: Swinging Through the Wall Street Jungle](https://www.amazon.com/Monkey-Business-Swinging-Through-Street/dp/0446676950)
+ * [USERPALOOZA by Nick Bowmast](https://userpalooza.co.nz/) - …Because it's easier to design for a customer you understand
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -67,6 +68,8 @@
  * [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - Helpful tips to run more inclusive meetings at your company
  * [Say the Hard Thing](http://randsinrepose.com/archives/say-the-hard-thing/) - The article provides some good insights into how to deliver direct feedback, but also how to receive feedback
  * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
+ * [Maslow’s Hierarchy of Needs](https://medium.com/thrive-global/maslows-hierarchy-of-needs-5b021e203e34) - A brief intro to maslows hierarchy of needs
+ * [Finding Happiness in a Busy Life — Make your bed every day](https://mbuswell.medium.com/finding-happiness-in-a-busy-life-make-your-bed-every-day-2c18e7daff3c) - A great article about one of the best speeches and books
 
 ## Newsletters
 
