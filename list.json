@@ -18,6 +18,12 @@
         "cat": "book"
     },
     {
+        "title": "Smarter Faster Better",
+        "url": "https://www.amazon.com/Smarter-Faster-Better-Transformative-Productivity/dp/0812983599",
+        "reason": "A book that takes the focus away from who is in your team, and places it on how they interact. 'Teams of superstars under-perform teams with good communication, trust in each other, and constant feedback'",
+        "cat": "book"
+    },
+    {
         "title": "Human centred leadership: Navigating uncertainty as a first time leader",
         "url": "https://rush.co.nz/ideas/human-centred-leadership",
         "reason": "",
@@ -45,6 +51,12 @@
         "title": "David Grady: How to save the world (or at least yourself) from bad meetings",
         "url": "https://www.youtube.com/watch?v=F6Qo8IDsVNg",
         "reason": "",
+        "cat": "video"
+    },
+    {
+        "title": "Product Ownership in a Nutshell",
+        "url": "https://www.youtube.com/watch?v=502ILHjX9EE",
+        "reason": "Everyone should watch this video at least a few times in their career - a high level summary of Product Ownership",
         "cat": "video"
     },
     {
@@ -248,7 +260,7 @@
     {
         "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
         "url": "https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB",
-        "reason": "",
+        "reason": "OKRs are a great way to measure how you're going, and articulating where you're going",
         "cat": "book"
     },
     {
@@ -266,13 +278,13 @@
     {
         "title": "The power of vulnerability - Brene Brown",
         "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be",
-        "reason": "A video that helps outline why it's important as a leader to be vulnerabile with your team",
+        "reason": "A video that helps outline why it's important as a leader to be vulnerable with your team",
         "cat": "video"
     },
     {
         "title": "Radical Candor",
         "url": "https://www.amazon.com/Radical-Candor-Revised-Updated-Saying/dp/1529038340/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
-        "reason": "How to Get What You Want by Saying What You Mean",
+        "reason": "How to Get What You Want by Saying What You Mean - being kind and brutally honest at the same time",
         "cat": "book"
     },
     {
@@ -282,27 +294,21 @@
         "cat": "book"
     },
     {
-        "title": "How they SRE",
-        "url": "https://github.com/upgundecha/howtheysre",
-        "reason": "How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.",
-        "cat": "repository"
-    },
-    {
         "title": "Thinking Fast and Slow",
         "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
-        "reason": "Hugely insightful into the way we and others think.",
+        "reason": "Hugely insightful into the way we and others think",
         "cat": "book"
     },
     {
-        "title": "INSPIRED: How to Create Tech Products Customers Love ",
+        "title": "INSPIRED: How to Create Tech Products Customers Love",
         "url": "https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N",
-        "reason": "Hugely insightful into the way we and others think.",
+        "reason": "Something all Engineers should read, this book tries to address how the big boys make successful tech product, and how you can too",
         "cat": "book"
     },
     {
         "title": "The Undercover Economist",
         "url": "https://www.amazon.com/Undercover-Economist-Tim-Harford/dp/0345494016/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1613552614&sr=1-1",
-        "reason": "A rare specimen: a book on economics that will enthrall its readers . . . It brings the power of economic.",
+        "reason": "A rare specimen: a book on economics that will enthrall its readers . . . It brings the power of economic",
         "cat": "book"
     },
     {
@@ -324,21 +330,33 @@
         "cat": "book"
     },
     {
+        "title": "Awesome List of Awesome Lists",
+        "url": "https://github.com/sindresorhus/awesome",
+        "reason": "An awesome list is a list of awesome things curated by the community.",
+        "cat": "repository"
+    },
+    {
         "title": "Awesome List of resources on Agile Software Development.",
         "url": "https://github.com/lorabv/awesome-agile",
         "reason": "",
         "cat": "repository"
     },
     {
-        "title": "Awesome List",
-        "url": "https://github.com/sindresorhus/awesome",
-        "reason": "An awesome list is a list of awesome things curated by the community.",
+        "title": "Software Apprenticeship Program",
+        "url": "https://github.com/AashiqDurga/software-apprenticeship-program",
+        "reason": "a great repo with plenty of links and info on a software apprenticeship program." ,
+        "cat": "repository"
+    },
+    {
+        "title": "How they SRE",
+        "url": "https://github.com/upgundecha/howtheysre",
+        "reason": "How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.",
         "cat": "repository"
     },
     {
         "title": "Maslow’s Hierarchy of Needs",
         "url": "https://medium.com/thrive-global/maslows-hierarchy-of-needs-5b021e203e34",
-        "reason": "A brief intro to maslows hierarchy of needs",
+        "reason": "A brief intro to maslows hierarchy of needs - see if you can remember from Uni!",
         "cat": "article"
     },
     {
@@ -442,11 +460,5 @@
         "url": "https://www.goodreads.com/book/show/4485966-talent-is-overrated",
         "reason": "" ,
         "cat": "book"
-    },
-    {
-        "title": "Software Apprenticeship Program",
-        "url": "https://github.com/AashiqDurga/software-apprenticeship-program",
-        "reason": "a great repo with plenty of links and info on a software apprenticeship program" ,
-        "cat": "repository"
     }
 ]
