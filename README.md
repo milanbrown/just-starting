@@ -3,27 +3,28 @@
  Cloned from https://github.com/ryanburgess/engineer-manager - thank you for orginally creating this tool
 
 ## Repositories
- * [How they SRE](https://github.com/upgundecha/howtheysre) - How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
+ * [Awesome List of Awesome Lists](https://github.com/sindresorhus/awesome) - An awesome list is a list of awesome things curated by the community.
  * [Awesome List of resources on Agile Software Development.](https://github.com/lorabv/awesome-agile)
- * [Awesome List](https://github.com/sindresorhus/awesome) - An awesome list is a list of awesome things curated by the community.
- * [Software Apprenticeship Program](https://github.com/AashiqDurga/software-apprenticeship-program) - a great repo with plenty of links and info on a software apprenticeship program
+ * [Software Apprenticeship Program](https://github.com/AashiqDurga/software-apprenticeship-program) - a great repo with plenty of links and info on a software apprenticeship program.
+ * [How they SRE](https://github.com/upgundecha/howtheysre) - How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
 
 ## Books
  * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/) - one of the best books to understand motivation
  * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
+ * [Smarter Faster Better](https://www.amazon.com/Smarter-Faster-Better-Transformative-Productivity/dp/0812983599) - A book that takes the focus away from who is in your team, and places it on how they interact. 'Teams of superstars under-perform teams with good communication, trust in each other, and constant feedback'
  * [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664) - A great book for understanding how to best provide and receive feedback.
  * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl)
  * [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/dp/0884271951/ref=wl_it_dp_v_nS_ttl)
  * [HBR's 10 Must Reads on Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997) - A book with HBR's 10 must read articles on managing yourself.
  * [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568)
- * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
+ * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB) - OKRs are a great way to measure how you're going, and articulating where you're going
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
- * [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Updated-Saying/dp/1529038340/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - How to Get What You Want by Saying What You Mean
+ * [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Updated-Saying/dp/1529038340/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - How to Get What You Want by Saying What You Mean - being kind and brutally honest at the same time
  * [Bank 4.0: Banking Everywhere, Never at a Bank](https://www.amazon.com/Bank-4-0-Banking-Everywhere-Never/dp/1119506506) - The future of banking is already here ― are you ready?
- * [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Hugely insightful into the way we and others think.
- * [INSPIRED: How to Create Tech Products Customers Love ](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) - Hugely insightful into the way we and others think.
- * [The Undercover Economist](https://www.amazon.com/Undercover-Economist-Tim-Harford/dp/0345494016/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1613552614&sr=1-1) - A rare specimen: a book on economics that will enthrall its readers . . . It brings the power of economic.
+ * [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Hugely insightful into the way we and others think
+ * [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) - Something all Engineers should read, this book tries to address how the big boys make successful tech product, and how you can too
+ * [The Undercover Economist](https://www.amazon.com/Undercover-Economist-Tim-Harford/dp/0345494016/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1613552614&sr=1-1) - A rare specimen: a book on economics that will enthrall its readers . . . It brings the power of economic
  * [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
  * [Winning by Jack Welch](https://www.amazon.com/Winning-Jack-Welch/dp/0060759380)
  * [Monkey Business: Swinging Through the Wall Street Jungle](https://www.amazon.com/Monkey-Business-Swinging-Through-Street/dp/0446676950)
@@ -46,6 +47,7 @@
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
+ * [Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) - Everyone should watch this video at least a few times in their career - a high level summary of Product Ownership
  * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) - Simon Sinek must be one of the greatest speakers of our time
  * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
  * [The Vegetable Talk (Leadership. By the numbers.) // Michael Lopp // Calibrate 2016](https://youtu.be/AGJaqQ0b8AE?t=3m13s)
@@ -55,7 +57,7 @@
  * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
  * [Collaborative Development: The Only CD That Matters - Brent Beer (GitHub) at Codemotion Italy 2017](https://www.youtube.com/watch?v=XyqeKmefgYw)
- * [The power of vulnerability - Brene Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be) - A video that helps outline why it's important as a leader to be vulnerabile with your team
+ * [The power of vulnerability - Brene Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be) - A video that helps outline why it's important as a leader to be vulnerable with your team
 
 ## Podcasts
  * [HBR episode on feedback](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2#episodeGuid=5f93f6ea0140dc92ea655196e51be183) - In this episode, HBR talks about how to effectively give feedback.
@@ -84,10 +86,12 @@
  * [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - Helpful tips to run more inclusive meetings at your company
  * [Say the Hard Thing](http://randsinrepose.com/archives/say-the-hard-thing/) - The article provides some good insights into how to deliver direct feedback, but also how to receive feedback
  * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
- * [Maslow’s Hierarchy of Needs](https://medium.com/thrive-global/maslows-hierarchy-of-needs-5b021e203e34) - A brief intro to maslows hierarchy of needs
+ * [Maslow’s Hierarchy of Needs](https://medium.com/thrive-global/maslows-hierarchy-of-needs-5b021e203e34) - A brief intro to maslows hierarchy of needs - see if you can remember from Uni!
  * [Finding Happiness in a Busy Life — Make your bed every day](https://mbuswell.medium.com/finding-happiness-in-a-busy-life-make-your-bed-every-day-2c18e7daff3c) - A great article about one of the best speeches and books out there
 
 ## Newsletters
+
+## Blogs
 
 ## Contributing 
 1. Fork it
