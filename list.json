@@ -350,10 +350,103 @@
     {
         "title": "Finding Happiness in a Busy Life — Make your bed every day",
         "url": "https://mbuswell.medium.com/finding-happiness-in-a-busy-life-make-your-bed-every-day-2c18e7daff3c",
-        "reason": "A great article about one of the best speeches and books",
+        "reason": "A great article about one of the best speeches and books out there",
         "cat": "article"
+    },
+    {
+        "title": "Sooner Safer Happier",
+        "url": "https://itrevolution.com/sooner-safer-happier/",
+        "reason": "Antipatterns and Patterns for Business Agility",
+        "cat": "book"
+    },
+    {
+        "title": "Find Your Why",
+        "url": "https://simonsinek.com/product/find-your-why/",
+        "reason": "",
+        "cat": "book"
+    },
+    {
+        "title": "Dare to Lead",
+        "url": "https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0593171128",
+        "reason": "",
+        "cat": "book"
+    },
+    {
+        "title": "The Culture Code",
+        "url": "http://danielcoyle.com/the-culture-code/",
+        "reason": "",
+        "cat": "book"
+    },
+    {
+        "title": "Liberating Structures",
+        "url": "https://www.liberatingstructures.com/",
+        "reason": "Not only a book, a site full of useful info" ,
+        "cat": "book"
+    },
+    {
+        "title": "Coaching Agile Teams",
+        "url": "https://www.lyssaadkins.com/coaching-agile-teams-book",
+        "reason": "A great book on agile coaching" ,
+        "cat": "book"
+    },
+    {
+        "title": "Grit: The Power of Passion and Perseverance",
+        "url": "https://www.goodreads.com/book/show/27213329-grit",
+        "reason": "A must-read book for anyone striving to succeed" ,
+        "cat": "book"
+    },
+    {
+        "title": "Blue Ocean Shift",
+        "url": "https://www.blueoceanstrategy.com/blue-ocean-shift-book/",
+        "reason": "Proven Steps to Inspire Confidence and Seize New Growth" ,
+        "cat": "book"
+    },
+    {
+        "title": "Blink: The Power of Thinking Without Thinking",
+        "url": "https://www.goodreads.com/book/show/40102.Blink",
+        "reason": "Blink changes the way you'll understand every decision you make." ,
+        "cat": "book"
+    },
+    {
+        "title": "Crucial Conversations: Tools for Talking When Stakes Are High",
+        "url": "https://www.goodreads.com/book/show/15014.Crucial_Conversations",
+        "reason": "Learn how to keep your cool and get the results you want when emotions flare." ,
+        "cat": "book"
+    },
+    {
+        "title": "Subliminal: How Your Unconscious Mind Rules Your Behavior",
+        "url": "https://www.goodreads.com/book/show/13058637-subliminal",
+        "reason": "" ,
+        "cat": "book"
+    },
+    {
+        "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "url": "https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People",
+        "reason": "" ,
+        "cat": "book"
+    },
+    {
+        "title": "An Everyone Culture: Becoming a Deliberately Developmental Organization",
+        "url": "https://www.goodreads.com/book/show/25159550-an-everyone-culture",
+        "reason": "" ,
+        "cat": "book"
+    },
+    {
+        "title": "Leaders Eat Last",
+        "url": "https://simonsinek.com/product/leaders-eat-last",
+        "reason": "Another great book by Simon Sinek" ,
+        "cat": "book"
+    },
+    {
+        "title": "Talent is Overrated: What Really Separates World-Class Performers from Everybody Else",
+        "url": "https://www.goodreads.com/book/show/4485966-talent-is-overrated",
+        "reason": "" ,
+        "cat": "book"
+    },
+    {
+        "title": "Software Apprenticeship Program",
+        "url": "https://github.com/AashiqDurga/software-apprenticeship-program",
+        "reason": "a great repo with plenty of links and info on a software apprenticeship program" ,
+        "cat": "repository"
     }
 ]
-
-
-

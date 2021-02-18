@@ -6,6 +6,7 @@
  * [How they SRE](https://github.com/upgundecha/howtheysre) - How They SRE is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
  * [Awesome List of resources on Agile Software Development.](https://github.com/lorabv/awesome-agile)
  * [Awesome List](https://github.com/sindresorhus/awesome) - An awesome list is a list of awesome things curated by the community.
+ * [Software Apprenticeship Program](https://github.com/AashiqDurga/software-apprenticeship-program) - a great repo with plenty of links and info on a software apprenticeship program
 
 ## Books
  * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
@@ -27,6 +28,21 @@
  * [Winning by Jack Welch](https://www.amazon.com/Winning-Jack-Welch/dp/0060759380)
  * [Monkey Business: Swinging Through the Wall Street Jungle](https://www.amazon.com/Monkey-Business-Swinging-Through-Street/dp/0446676950)
  * [USERPALOOZA by Nick Bowmast](https://userpalooza.co.nz/) - …Because it's easier to design for a customer you understand
+ * [Sooner Safer Happier](https://itrevolution.com/sooner-safer-happier/) - Antipatterns and Patterns for Business Agility
+ * [Find Your Why](https://simonsinek.com/product/find-your-why/)
+ * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0593171128)
+ * [The Culture Code](http://danielcoyle.com/the-culture-code/)
+ * [Liberating Structures](https://www.liberatingstructures.com/) - Not only a book, a site full of useful info
+ * [Coaching Agile Teams](https://www.lyssaadkins.com/coaching-agile-teams-book) - A great book on agile coaching
+ * [Grit: The Power of Passion and Perseverance](https://www.goodreads.com/book/show/27213329-grit) - A must-read book for anyone striving to succeed
+ * [Blue Ocean Shift](https://www.blueoceanstrategy.com/blue-ocean-shift-book/) - Proven Steps to Inspire Confidence and Seize New Growth
+ * [Blink: The Power of Thinking Without Thinking](https://www.goodreads.com/book/show/40102.Blink) - Blink changes the way you'll understand every decision you make.
+ * [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) - Learn how to keep your cool and get the results you want when emotions flare.
+ * [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://www.goodreads.com/book/show/13058637-subliminal)
+ * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+ * [An Everyone Culture: Becoming a Deliberately Developmental Organization](https://www.goodreads.com/book/show/25159550-an-everyone-culture)
+ * [Leaders Eat Last](https://simonsinek.com/product/leaders-eat-last) - Another great book by Simon Sinek
+ * [Talent is Overrated: What Really Separates World-Class Performers from Everybody Else](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -69,7 +85,7 @@
  * [Say the Hard Thing](http://randsinrepose.com/archives/say-the-hard-thing/) - The article provides some good insights into how to deliver direct feedback, but also how to receive feedback
  * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
  * [Maslow’s Hierarchy of Needs](https://medium.com/thrive-global/maslows-hierarchy-of-needs-5b021e203e34) - A brief intro to maslows hierarchy of needs
- * [Finding Happiness in a Busy Life — Make your bed every day](https://mbuswell.medium.com/finding-happiness-in-a-busy-life-make-your-bed-every-day-2c18e7daff3c) - A great article about one of the best speeches and books
+ * [Finding Happiness in a Busy Life — Make your bed every day](https://mbuswell.medium.com/finding-happiness-in-a-busy-life-make-your-bed-every-day-2c18e7daff3c) - A great article about one of the best speeches and books out there
 
 ## Newsletters
 
